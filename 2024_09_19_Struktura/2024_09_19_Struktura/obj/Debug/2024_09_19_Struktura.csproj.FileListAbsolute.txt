@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_09_19_Struktura\2024_09_19_Struktura\obj\Debug\2024_09_19_Struktura.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_09_19_Struktura\2024_09_19_Struktura\obj\Debug\2024_09_19_Struktura.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_09_19_Struktura\2024_09_19_Struktura\bin\Debug\2024_09_19_Struktura.exe.config
+H:\Programozás 12\Asztali alk\2024_09_19_Struktura\2024_09_19_Struktura\bin\Debug\2024_09_19_Struktura.exe
+H:\Programozás 12\Asztali alk\2024_09_19_Struktura\2024_09_19_Struktura\bin\Debug\2024_09_19_Struktura.pdb
+H:\Programozás 12\Asztali alk\2024_09_19_Struktura\2024_09_19_Struktura\obj\Debug\2024_09_19_Struktura.exe
+H:\Programozás 12\Asztali alk\2024_09_19_Struktura\2024_09_19_Struktura\obj\Debug\2024_09_19_Struktura.pdb

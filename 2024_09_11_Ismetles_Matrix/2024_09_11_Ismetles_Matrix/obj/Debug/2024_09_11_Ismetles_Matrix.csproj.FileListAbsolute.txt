@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\bin\Debug\2024_09_11_Ismetles_Matrix.exe.config
+H:\Programozás 12\Asztali alk\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\bin\Debug\2024_09_11_Ismetles_Matrix.exe
+H:\Programozás 12\Asztali alk\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\bin\Debug\2024_09_11_Ismetles_Matrix.pdb
+H:\Programozás 12\Asztali alk\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.exe
+H:\Programozás 12\Asztali alk\2024_09_11_Ismetles_Matrix\2024_09_11_Ismetles_Matrix\obj\Debug\2024_09_11_Ismetles_Matrix.pdb

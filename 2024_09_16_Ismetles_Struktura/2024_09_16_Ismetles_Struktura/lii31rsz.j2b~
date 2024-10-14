@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _2024_09_16_Ismetles_Struktura
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Kutya k1 = new Kutya(); // struktura egy peldanya
+            k1.kor = 12;
+            k1.fajta = "puli";
+
+            Kutya k2 = new Kutya(4, "Lex", "vizsla", true);
+
+            Console.ReadLine();
+        }
+    }
+
+    struct Kutya
+    {
+        public int kor;
+        public string nev, fajta;
+        public bool kan;
+
+        //Konstruktor
+        public Kutya(int ujkor, string ujnev, string ujfajta, bool ujkan)
+        {
+            this.kor = ujkor;
+            this.nev = ujnev;
+            this.fajta = ujfajta;
+            this.kan = ujkan;
+        }
+    }
+}

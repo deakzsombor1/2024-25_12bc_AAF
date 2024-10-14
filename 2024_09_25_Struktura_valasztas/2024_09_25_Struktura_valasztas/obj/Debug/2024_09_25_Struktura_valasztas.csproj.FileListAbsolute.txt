@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_09_25_Struktura_valasztas\2024_09_25_Struktura_valasztas\bin\Debug\2024_09_25_Struktura_valasztas.exe.config
+H:\Programozás 12\Asztali alk\2024_09_25_Struktura_valasztas\2024_09_25_Struktura_valasztas\bin\Debug\2024_09_25_Struktura_valasztas.exe
+H:\Programozás 12\Asztali alk\2024_09_25_Struktura_valasztas\2024_09_25_Struktura_valasztas\bin\Debug\2024_09_25_Struktura_valasztas.pdb
+H:\Programozás 12\Asztali alk\2024_09_25_Struktura_valasztas\2024_09_25_Struktura_valasztas\obj\Debug\2024_09_25_Struktura_valasztas.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_09_25_Struktura_valasztas\2024_09_25_Struktura_valasztas\obj\Debug\2024_09_25_Struktura_valasztas.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_09_25_Struktura_valasztas\2024_09_25_Struktura_valasztas\obj\Debug\2024_09_25_Struktura_valasztas.exe
+H:\Programozás 12\Asztali alk\2024_09_25_Struktura_valasztas\2024_09_25_Struktura_valasztas\obj\Debug\2024_09_25_Struktura_valasztas.pdb
