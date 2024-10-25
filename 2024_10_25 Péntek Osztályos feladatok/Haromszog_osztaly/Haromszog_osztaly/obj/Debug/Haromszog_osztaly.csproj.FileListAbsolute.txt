@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Haromszog_osztaly\Haromszog_osztaly\bin\Debug\Haromszog_osztaly.exe.config
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Haromszog_osztaly\Haromszog_osztaly\bin\Debug\Haromszog_osztaly.exe
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Haromszog_osztaly\Haromszog_osztaly\bin\Debug\Haromszog_osztaly.pdb
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Haromszog_osztaly\Haromszog_osztaly\obj\Debug\Haromszog_osztaly.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Haromszog_osztaly\Haromszog_osztaly\obj\Debug\Haromszog_osztaly.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Haromszog_osztaly\Haromszog_osztaly\obj\Debug\Haromszog_osztaly.exe
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Haromszog_osztaly\Haromszog_osztaly\obj\Debug\Haromszog_osztaly.pdb
