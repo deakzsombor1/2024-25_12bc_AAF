@@ -27,5 +27,26 @@ namespace Haromszog_osztaly
         {
             return oldal1 == oldal2 || oldal2 == oldal3 || oldal3 == oldal1;
         }
+
+        public bool SzabalyosE()
+        {
+            return oldal1 == oldal2 && oldal1 == oldal3 && oldal2 == oldal3;
+        }
+
+        public bool DerekszoguE()
+        {
+            return oldal1 * oldal1 + oldal2 * oldal2 == oldal3 * oldal3 || oldal1 * oldal1 + oldal3 * oldal3 == oldal2 * oldal2 || oldal2 * oldal2 + oldal3 * oldal3 == oldal1 * oldal1;
+        }
+
+        public double Kerulet()
+        {
+            return oldal1 + oldal2 + oldal3;
+        }
+
+        public double Terulet()
+        {
+            double s = Kerulet() / 2;
+            return Math.Sqrt(s * (s-oldal1) * (s - oldal2) * (s - oldal3));
+        }
     }
 }
