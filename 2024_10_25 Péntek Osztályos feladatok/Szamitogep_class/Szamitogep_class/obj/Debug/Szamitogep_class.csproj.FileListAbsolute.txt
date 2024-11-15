@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Szamitogep_class\Szamitogep_class\bin\Debug\Szamitogep_class.exe.config
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Szamitogep_class\Szamitogep_class\bin\Debug\Szamitogep_class.exe
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Szamitogep_class\Szamitogep_class\bin\Debug\Szamitogep_class.pdb
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Szamitogep_class\Szamitogep_class\obj\Debug\Szamitogep_class.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Szamitogep_class\Szamitogep_class\obj\Debug\Szamitogep_class.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Szamitogep_class\Szamitogep_class\obj\Debug\Szamitogep_class.exe
+H:\Programozás 12\Asztali alk\2024_10_25 Péntek Osztályos feladatok\Szamitogep_class\Szamitogep_class\obj\Debug\Szamitogep_class.pdb

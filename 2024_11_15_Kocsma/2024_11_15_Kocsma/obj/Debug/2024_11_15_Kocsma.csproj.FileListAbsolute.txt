@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_11_15_Kocsma\2024_11_15_Kocsma\bin\Debug\2024_11_15_Kocsma.exe.config
+H:\Programozás 12\Asztali alk\2024_11_15_Kocsma\2024_11_15_Kocsma\bin\Debug\2024_11_15_Kocsma.exe
+H:\Programozás 12\Asztali alk\2024_11_15_Kocsma\2024_11_15_Kocsma\bin\Debug\2024_11_15_Kocsma.pdb
+H:\Programozás 12\Asztali alk\2024_11_15_Kocsma\2024_11_15_Kocsma\obj\Debug\2024_11_15_Kocsma.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_11_15_Kocsma\2024_11_15_Kocsma\obj\Debug\2024_11_15_Kocsma.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_11_15_Kocsma\2024_11_15_Kocsma\obj\Debug\2024_11_15_Kocsma.exe
+H:\Programozás 12\Asztali alk\2024_11_15_Kocsma\2024_11_15_Kocsma\obj\Debug\2024_11_15_Kocsma.pdb

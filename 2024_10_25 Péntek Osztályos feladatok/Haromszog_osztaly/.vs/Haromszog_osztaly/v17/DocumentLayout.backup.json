@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_10_25 P\u00E9ntek Oszt\u00E1lyos feladatok\\Haromszog_osztaly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5C91D44-B329-48D8-98E6-18D3D9DD4CC9}|Haromszog_osztaly\\Haromszog_osztaly.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_10_25 P\u00E9ntek Oszt\u00E1lyos feladatok\\Haromszog_osztaly\\haromszog_osztaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C91D44-B329-48D8-98E6-18D3D9DD4CC9}|Haromszog_osztaly\\Haromszog_osztaly.csproj|solutionrelative:haromszog_osztaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5C91D44-B329-48D8-98E6-18D3D9DD4CC9}|Haromszog_osztaly\\Haromszog_osztaly.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2024_10_25 p\u00E9ntek oszt\u00E1lyos feladatok\\haromszog_osztaly\\haromszog_osztaly\\haromszog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C91D44-B329-48D8-98E6-18D3D9DD4CC9}|Haromszog_osztaly\\Haromszog_osztaly.csproj|solutionrelative:haromszog_osztaly\\haromszog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C91D44-B329-48D8-98E6-18D3D9DD4CC9}|Haromszog_osztaly\\Haromszog_osztaly.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_10_25 P\u00E9ntek Oszt\u00E1lyos feladatok\\Haromszog_osztaly\\haromszog_osztaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C91D44-B329-48D8-98E6-18D3D9DD4CC9}|Haromszog_osztaly\\Haromszog_osztaly.csproj|solutionrelative:haromszog_osztaly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Haromszog.cs",
               "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_10_25 P\u00E9ntek Oszt\u00E1lyos feladatok\\Haromszog_osztaly\\Haromszog_osztaly\\Haromszog.cs",
               "RelativeDocumentMoniker": "Haromszog_osztaly\\Haromszog.cs",
               "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_10_25 P\u00E9ntek Oszt\u00E1lyos feladatok\\Haromszog_osztaly\\Haromszog_osztaly\\Haromszog.cs",
               "RelativeToolTip": "Haromszog_osztaly\\Haromszog.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T07:02:10.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_10_25 P\u00E9ntek Oszt\u00E1lyos feladatok\\Haromszog_osztaly\\Haromszog_osztaly\\Program.cs",
               "RelativeDocumentMoniker": "Haromszog_osztaly\\Program.cs",
               "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_10_25 P\u00E9ntek Oszt\u00E1lyos feladatok\\Haromszog_osztaly\\Haromszog_osztaly\\Program.cs",
               "RelativeToolTip": "Haromszog_osztaly\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T06:56:14.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T06:56:14.467Z"
             }
           ]
         }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_11_14_Static_felhasznalasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5E9480-8F3D-4109-BF96-D0A172CF1DF2}|2024_11_14_Static_felhasznalasa\\2024_11_14_Static_felhasznalasa.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_11_14_Static_felhasznalasa\\2024_11_14_static_felhasznalasa\\datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5E9480-8F3D-4109-BF96-D0A172CF1DF2}|2024_11_14_Static_felhasznalasa\\2024_11_14_Static_felhasznalasa.csproj|solutionrelative:2024_11_14_static_felhasznalasa\\datum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5E9480-8F3D-4109-BF96-D0A172CF1DF2}|2024_11_14_Static_felhasznalasa\\2024_11_14_Static_felhasznalasa.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2024_11_14_static_felhasznalasa\\2024_11_14_static_felhasznalasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5E9480-8F3D-4109-BF96-D0A172CF1DF2}|2024_11_14_Static_felhasznalasa\\2024_11_14_Static_felhasznalasa.csproj|solutionrelative:2024_11_14_static_felhasznalasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datum.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_11_14_Static_felhasznalasa\\2024_11_14_Static_felhasznalasa\\Datum.cs",
+              "RelativeDocumentMoniker": "2024_11_14_Static_felhasznalasa\\Datum.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_11_14_Static_felhasznalasa\\2024_11_14_Static_felhasznalasa\\Datum.cs*",
+              "RelativeToolTip": "2024_11_14_Static_felhasznalasa\\Datum.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:44:17.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_11_14_Static_felhasznalasa\\2024_11_14_Static_felhasznalasa\\Program.cs",
+              "RelativeDocumentMoniker": "2024_11_14_Static_felhasznalasa\\Program.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_11_14_Static_felhasznalasa\\2024_11_14_Static_felhasznalasa\\Program.cs",
+              "RelativeToolTip": "2024_11_14_Static_felhasznalasa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:35:57.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

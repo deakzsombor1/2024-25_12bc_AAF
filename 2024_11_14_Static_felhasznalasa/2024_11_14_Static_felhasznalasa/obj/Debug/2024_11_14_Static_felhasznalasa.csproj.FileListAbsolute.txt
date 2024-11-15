@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_11_14_Static_felhasznalasa\2024_11_14_Static_felhasznalasa\bin\Debug\2024_11_14_Static_felhasznalasa.exe.config
+H:\Programozás 12\Asztali alk\2024_11_14_Static_felhasznalasa\2024_11_14_Static_felhasznalasa\bin\Debug\2024_11_14_Static_felhasznalasa.exe
+H:\Programozás 12\Asztali alk\2024_11_14_Static_felhasznalasa\2024_11_14_Static_felhasznalasa\bin\Debug\2024_11_14_Static_felhasznalasa.pdb
+H:\Programozás 12\Asztali alk\2024_11_14_Static_felhasznalasa\2024_11_14_Static_felhasznalasa\obj\Debug\2024_11_14_Static_felhasznalasa.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_11_14_Static_felhasznalasa\2024_11_14_Static_felhasznalasa\obj\Debug\2024_11_14_Static_felhasznalasa.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_11_14_Static_felhasznalasa\2024_11_14_Static_felhasznalasa\obj\Debug\2024_11_14_Static_felhasznalasa.exe
+H:\Programozás 12\Asztali alk\2024_11_14_Static_felhasznalasa\2024_11_14_Static_felhasznalasa\obj\Debug\2024_11_14_Static_felhasznalasa.pdb
