@@ -10,6 +10,18 @@ namespace _2024_11_15_Kocsma
     {
         private int ar, alkoholtartalom;
 
+        public int Ar
+        {
+            get { return ar; }
+            set { ar = value; }
+        }
+
+        public int Alkoholtartalom
+        {
+            get { return alkoholtartalom; }
+            set { alkoholtartalom = value; }
+        }
+
         public Ital(int ar, int alkoholtartalom)
         {
             this.ar = ar;

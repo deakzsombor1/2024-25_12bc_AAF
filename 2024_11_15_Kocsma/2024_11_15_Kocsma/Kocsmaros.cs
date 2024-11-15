@@ -11,6 +11,11 @@ namespace _2024_11_15_Kocsma
         // Adattagok
         private int penz;
         public static int koszospohar;
+        public int Penz
+        {
+            get { return penz; }
+            set { penz = value; }
+        }
 
         // Konstruktor
         public Kocsmaros(int penz)
@@ -30,6 +35,11 @@ namespace _2024_11_15_Kocsma
             {
                 Console.WriteLine("Nincs koszos pohár.");
             }
+        }
+
+        public override string ToString()
+        {
+            return $"Kocsmáros pénze: {penz} poharak száma: {koszospohar}";
         }
     }
 }

@@ -13,6 +13,16 @@ namespace _2024_11_15_Kocsma
         private int kor, penz, reszegseg;
         private bool ferfi, kocsmaban;
 
+        public string Nev
+        {
+            get { return nev; }
+        }
+
+        public int Kor
+        {
+            get { return kor; }
+        }
+
         // konstruktorok
         public Ember(string nev, int kor, bool ferfi)
         {
@@ -41,7 +51,7 @@ namespace _2024_11_15_Kocsma
                 penz --;
                 reszegseg++;
                 Kocsmaros.koszospohar++;
-                kocsmaros.penz++;
+                kocsmaros.Penz++;
             }
             else
             {
@@ -56,11 +66,11 @@ namespace _2024_11_15_Kocsma
         {
             if (kocsmaban)
             {
-                penz -= ital.ar;
-                kocsmaros.penz += ital.ar;
-                reszegseg += ital.alkoholtartalom;
+                penz -= ital.Ar;
+                kocsmaros.Penz += ital.Ar;
+                reszegseg += ital.Alkoholtartalom;
             }
-            if (reszegseg == 40)
+            if (reszegseg == 45)
             {
                 Alszik();
             }
@@ -82,6 +92,11 @@ namespace _2024_11_15_Kocsma
         {
             kocsmaban = true;
             Console.WriteLine($"{nev} megérkezett.");
+        }
+
+        public override string ToString()
+        {
+            return $"{nev} ({kor}) - pénz: {penz} részegség: {reszegseg} ";
         }
 
         // getterek és szetterek
