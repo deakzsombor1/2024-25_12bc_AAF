@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_11_18_OroklodesPelda\2024_11_18_OroklodesPelda\bin\Debug\2024_11_18_OroklodesPelda.exe.config
+H:\Programozás 12\Asztali alk\2024_11_18_OroklodesPelda\2024_11_18_OroklodesPelda\bin\Debug\2024_11_18_OroklodesPelda.exe
+H:\Programozás 12\Asztali alk\2024_11_18_OroklodesPelda\2024_11_18_OroklodesPelda\bin\Debug\2024_11_18_OroklodesPelda.pdb
+H:\Programozás 12\Asztali alk\2024_11_18_OroklodesPelda\2024_11_18_OroklodesPelda\obj\Debug\2024_11_18_OroklodesPelda.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_11_18_OroklodesPelda\2024_11_18_OroklodesPelda\obj\Debug\2024_11_18_OroklodesPelda.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_11_18_OroklodesPelda\2024_11_18_OroklodesPelda\obj\Debug\2024_11_18_OroklodesPelda.exe
+H:\Programozás 12\Asztali alk\2024_11_18_OroklodesPelda\2024_11_18_OroklodesPelda\obj\Debug\2024_11_18_OroklodesPelda.pdb
