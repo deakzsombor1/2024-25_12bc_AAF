@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{43577AB3-69DE-423A-968D-10DB8DE50A59}|2024_11_28_AbsztraktOsztaly\\2024_11_28_AbsztraktOsztaly.csproj|solutionrelative:2024_11_28_absztraktosztaly\\haz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43577AB3-69DE-423A-968D-10DB8DE50A59}|2024_11_28_AbsztraktOsztaly\\2024_11_28_AbsztraktOsztaly.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2024_11_28_absztraktosztaly\\2024_11_28_absztraktosztaly\\tervrajz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43577AB3-69DE-423A-968D-10DB8DE50A59}|2024_11_28_AbsztraktOsztaly\\2024_11_28_AbsztraktOsztaly.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_11_28_AbsztraktOsztaly\\2024_11_28_absztraktosztaly\\tervrajz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43577AB3-69DE-423A-968D-10DB8DE50A59}|2024_11_28_AbsztraktOsztaly\\2024_11_28_AbsztraktOsztaly.csproj|solutionrelative:2024_11_28_absztraktosztaly\\tervrajz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "2024_11_28_AbsztraktOsztaly\\Haz.cs",
               "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_11_28_AbsztraktOsztaly\\2024_11_28_AbsztraktOsztaly\\Haz.cs",
               "RelativeToolTip": "2024_11_28_AbsztraktOsztaly\\Haz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T13:17:59.001Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "2024_11_28_AbsztraktOsztaly\\Tervrajz.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:49:44.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T06:49:44.192Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "2024_11_28_AbsztraktOsztaly\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T06:47:14.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T06:47:14.656Z"
             }
           ]
         }
