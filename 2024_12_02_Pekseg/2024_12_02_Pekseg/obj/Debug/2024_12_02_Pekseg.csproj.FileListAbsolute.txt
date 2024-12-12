@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2024_12_02_Pekseg\2024_12_02_Pekseg\obj\Debug\2024_12_02_Pekseg.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_12_02_Pekseg\2024_12_02_Pekseg\obj\Debug\2024_12_02_Pekseg.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2024_12_02_Pekseg\2024_12_02_Pekseg\bin\Debug\2024_12_02_Pekseg.exe.config
+H:\Programozás 12\Asztali alk\2024_12_02_Pekseg\2024_12_02_Pekseg\bin\Debug\2024_12_02_Pekseg.exe
+H:\Programozás 12\Asztali alk\2024_12_02_Pekseg\2024_12_02_Pekseg\bin\Debug\2024_12_02_Pekseg.pdb
+H:\Programozás 12\Asztali alk\2024_12_02_Pekseg\2024_12_02_Pekseg\obj\Debug\2024_12_02_Pekseg.exe
+H:\Programozás 12\Asztali alk\2024_12_02_Pekseg\2024_12_02_Pekseg\obj\Debug\2024_12_02_Pekseg.pdb

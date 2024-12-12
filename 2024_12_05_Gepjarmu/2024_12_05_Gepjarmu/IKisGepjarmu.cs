@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2024_12_02_Pekseg
+namespace _2024_12_05_Gepjarmu
 {
-    internal interface IArlap
+    internal interface IKisGepjarmu
     {
-        double MennyibeKerul();
-        
+        bool haladhatItt(int sebesseg);
     }
 }

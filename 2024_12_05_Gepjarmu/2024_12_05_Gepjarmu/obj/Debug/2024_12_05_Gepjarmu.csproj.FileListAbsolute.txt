@@ -1,0 +1,2 @@
+H:\Programozás 12\Asztali alk\2024_12_05_Gepjarmu\2024_12_05_Gepjarmu\obj\Debug\2024_12_05_Gepjarmu.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2024_12_05_Gepjarmu\2024_12_05_Gepjarmu\obj\Debug\2024_12_05_Gepjarmu.csproj.CoreCompileInputs.cache

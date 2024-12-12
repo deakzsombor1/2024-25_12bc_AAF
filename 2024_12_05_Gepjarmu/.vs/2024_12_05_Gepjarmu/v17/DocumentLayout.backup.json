@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\ikisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\ikisgepjarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2024_12_05_gepjarmu\\2024_12_05_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\audis8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\jarmu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\robogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\orszagut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8162745A-A6F8-4A68-B63E-17E0C4F27FB7}|2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu.csproj|solutionrelative:2024_12_05_gepjarmu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orszagut.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Orszagut.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Orszagut.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Orszagut.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Orszagut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:17:05.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudiS8.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\AudiS8.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\AudiS8.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\AudiS8.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\AudiS8.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:11:19.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Robogo.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Robogo.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Robogo.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Robogo.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Robogo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:50:03.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jarmu.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Jarmu.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Jarmu.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Jarmu.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Jarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:46:08.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IKisGepjarmu.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\IKisGepjarmu.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\IKisGepjarmu.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\IKisGepjarmu.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\IKisGepjarmu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:44:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Program.cs",
+              "RelativeDocumentMoniker": "2024_12_05_Gepjarmu\\Program.cs",
+              "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_12_05_Gepjarmu\\2024_12_05_Gepjarmu\\Program.cs",
+              "RelativeToolTip": "2024_12_05_Gepjarmu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:44:22.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
