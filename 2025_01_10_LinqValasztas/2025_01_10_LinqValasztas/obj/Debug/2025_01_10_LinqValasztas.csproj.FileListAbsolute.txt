@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2025_01_10_LinqValasztas\2025_01_10_LinqValasztas\bin\Debug\2025_01_10_LinqValasztas.exe.config
+H:\Programozás 12\Asztali alk\2025_01_10_LinqValasztas\2025_01_10_LinqValasztas\bin\Debug\2025_01_10_LinqValasztas.exe
+H:\Programozás 12\Asztali alk\2025_01_10_LinqValasztas\2025_01_10_LinqValasztas\bin\Debug\2025_01_10_LinqValasztas.pdb
+H:\Programozás 12\Asztali alk\2025_01_10_LinqValasztas\2025_01_10_LinqValasztas\obj\Debug\2025_01_10_LinqValasztas.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2025_01_10_LinqValasztas\2025_01_10_LinqValasztas\obj\Debug\2025_01_10_LinqValasztas.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_01_10_LinqValasztas\2025_01_10_LinqValasztas\obj\Debug\2025_01_10_LinqValasztas.exe
+H:\Programozás 12\Asztali alk\2025_01_10_LinqValasztas\2025_01_10_LinqValasztas\obj\Debug\2025_01_10_LinqValasztas.pdb

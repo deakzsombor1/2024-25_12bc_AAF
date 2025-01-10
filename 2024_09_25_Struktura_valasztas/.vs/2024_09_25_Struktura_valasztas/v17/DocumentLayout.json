@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "2024_09_25_Struktura_valasztas\\Program.cs",
               "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2024_09_25_Struktura_valasztas\\2024_09_25_Struktura_valasztas\\Program.cs",
               "RelativeToolTip": "2024_09_25_Struktura_valasztas\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T08:57:14.451Z",
               "EditorCaption": ""
