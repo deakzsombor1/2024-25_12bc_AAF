@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2025_01_16_LinqMukorcsolya\2025_01_16_LinqMukorcsolya\bin\Debug\2025_01_16_LinqMukorcsolya.exe.config
+H:\Programozás 12\Asztali alk\2025_01_16_LinqMukorcsolya\2025_01_16_LinqMukorcsolya\bin\Debug\2025_01_16_LinqMukorcsolya.exe
+H:\Programozás 12\Asztali alk\2025_01_16_LinqMukorcsolya\2025_01_16_LinqMukorcsolya\bin\Debug\2025_01_16_LinqMukorcsolya.pdb
+H:\Programozás 12\Asztali alk\2025_01_16_LinqMukorcsolya\2025_01_16_LinqMukorcsolya\obj\Debug\2025_01_16_LinqMukorcsolya.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2025_01_16_LinqMukorcsolya\2025_01_16_LinqMukorcsolya\obj\Debug\2025_01_16_LinqMukorcsolya.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_01_16_LinqMukorcsolya\2025_01_16_LinqMukorcsolya\obj\Debug\2025_01_16_LinqMukorcsolya.exe
+H:\Programozás 12\Asztali alk\2025_01_16_LinqMukorcsolya\2025_01_16_LinqMukorcsolya\obj\Debug\2025_01_16_LinqMukorcsolya.pdb

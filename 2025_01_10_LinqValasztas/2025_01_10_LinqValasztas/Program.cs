@@ -1,12 +1,13 @@
-﻿using System;
+﻿using _2025_01_10_LinqValasztas;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Runtime.CompilerServices;
+using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2025_01_10_LinqValasztas
+namespace _2025_01_10_Valasztasok
 {
     internal class Program
     {
@@ -14,57 +15,117 @@ namespace _2025_01_10_LinqValasztas
         static void Main(string[] args)
         {
             Fajlbeolvasas();
-            //Kiiratas();
+            Feladat2();
+            Feladat3();
+            Feladat4();
+            Feladat5();
+            Feladat6();
+            Csoportositas();
+            Feladat7();
 
-            OsszIndulo();
-            KepviseloSzavazata();
-            HanySzavazat();
 
             Console.ReadLine();
         }
 
-        private static void HanySzavazat()
+        private static void Feladat7()
         {
-            int sum = kepviselok.Sum(x => x.Szavazat);
-            double szazalek =(double)sum/12345 * 100;
-            Console.WriteLine($"A választáson {sum} állampolgár, a jogosultak {Math.Round(szazalek, 2)}%-a vett részt.");
+            var csoportositas = kepviselok.GroupBy(c => c.Sorszam)
+                .Select(x => new
+                {
+                    kerulet = x.Key,
+                    kepviselok = x.ToList().Find(v => v.Szavazat == x.Max(d => d.Szavazat))
+                })
+                .OrderBy(c => c.kerulet);
+
+            foreach (var item in csoportositas)
+            {
+                Console.WriteLine(item.kerulet + " " + item.kepviselok.Vezeteknev + " " + item.kepviselok.Keresztnev);
+            }
         }
 
-        private static void KepviseloSzavazata()
+        private static void Csoportositas()
         {
-            Console.Write("Adja meg a képviselő nevét: ");
+            //var csoportositas = kepviselok
+            //    .GroupBy(c => c.Part)
+            //    .Select(x => new
+            //    {
+            //        partNeve = x.Key,
+            //        darab = x.Count()
+            //    });
+            /*
+            var csoportositas = kepviselok
+                .GroupBy(c => c.Part)
+                .Select(x => new
+                {
+                    partNeve = x.Key,
+                    osszeg = x.Sum(d => d.Szavazat)
+                })
+                .OrderByDescending(k => k.osszeg);
+            */
+            var csoportositas = kepviselok.GroupBy(c => c.Sorszam)
+                .Select(x => new
+                {
+                    kerulet = x.Key,
+                    maxe = x.Max(d => d.Szavazat)
+                })
+                .OrderBy(c => c.kerulet);
+
+            foreach (var item in csoportositas)
+            {
+                Console.WriteLine(item.kerulet+" " +item.maxe);
+            }
+        }
+
+        private static void Feladat6()
+        {
+            int maxSzavazat = kepviselok.Max(c => c.Szavazat);
+            var legjobbKepviselok = kepviselok.Where(c => c.Szavazat == maxSzavazat);
+            foreach (var item in legjobbKepviselok)
+            {
+                Console.WriteLine(item.Vezeteknev+" "+item.Keresztnev+" "+item.Szavazat);
+            }
+        }
+
+        private static void Feladat5()
+        {
+            List<string> partSzoveg = new List<string> { "Gyümölcsevők Pártja", "GYEP", "Húsevők Pártja", "HEP", "Tejivók Szövetsége", "TISZ", "Zöldségevők Pártja", "ZEP", "Független jelöltek", "-" };
+            Console.WriteLine("5. feladat");
+            var partok = kepviselok.Select(x => x.Part).Distinct();
+            foreach (var elem in partok)
+            {
+                /*int / int = int
+                 * 5 / 10 = 0 
+                 * double / int = double
+                 * 5.0 / 10 = 0.5 */
+                double szazalek = (double)kepviselok.FindAll(x => x.Part == elem).Sum(x => x.Szavazat) / kepviselok.Sum(x => x.Szavazat) * 100;
+                Console.WriteLine($"{partSzoveg[partSzoveg.IndexOf(elem) - 1]} = {Math.Round(szazalek, 2)}%");
+            }
+        }
+
+        private static void Feladat4()
+        {
+            Console.WriteLine("4. feladat");
+            int sum = kepviselok.Sum(x => x.Szavazat);
+            double szazalek = (double)sum / 12345 * 100;
+            Console.WriteLine($"\tA választáson {sum} állampolgár, a jogosultak {Math.Round(szazalek, 2)}%-a vett részt.");
+        }
+
+        private static void Feladat3()
+        {
+            Console.WriteLine("3. feladat");
+            Console.Write("\tAdja meg a képviselő nevét: ");
             string[] nev = Console.ReadLine().Split(' ');
             Kepviselo k = kepviselok.Find(c => c.Vezeteknev == nev[0] && c.Keresztnev == nev[1]);
-            if(k == null)
-            {
-                Console.WriteLine("Ilyen nevű képviselőjelölt nem szerepel \r\na nyilvántartásban!");
-            }
+            if (k == null)
+                Console.WriteLine("\tIlyen nevű képviselőjelölt nem szerepel a nyilvántartásban!");
             else
-            {
                 Console.WriteLine($"\t{nev[0]} {nev[1]} képviselő {k.Szavazat} szavazatot kapott.");
-
-
-
-
-            }
         }
 
-        private static void OsszIndulo()
+        private static void Feladat2()
         {
-            int ossz = 0;
-            for (int i = 0; i < kepviselok.Count; i++)
-            {
-                ossz++;
-            }
-            Console.WriteLine("A helyhatósági választáson {0} képviselőjelölt indult.", ossz);
-        }
-
-        private static void Kiiratas()
-        {
-            for (int i = 0; i < kepviselok.Count; i++)
-            {
-                Console.WriteLine("{0} {1} {2} {3} {4}", kepviselok[i].Sorszam, kepviselok[i].Szavazat, kepviselok[i].Vezeteknev, kepviselok[i].Keresztnev, kepviselok[i].Part);
-            }
+            Console.WriteLine("2. feladat");
+            Console.WriteLine($"\tA helyhatósági választáson {kepviselok.Count} képviselőjelölt indult.");
         }
 
         private static void Fajlbeolvasas()
@@ -78,6 +139,7 @@ namespace _2025_01_10_LinqValasztas
             }
 
             sr.Close();
+
         }
     }
 }
