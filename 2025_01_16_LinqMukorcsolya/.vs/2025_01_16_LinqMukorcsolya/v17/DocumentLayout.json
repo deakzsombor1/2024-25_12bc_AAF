@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_16_LinqMukorcsolya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7F8E5D0-37D5-43A0-9CAE-7F035B6193DC}|2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_16_LinqMukorcsolya\\2025_01_16_linqmukorcsolya\\korcsolya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7F8E5D0-37D5-43A0-9CAE-7F035B6193DC}|2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya.csproj|solutionrelative:2025_01_16_linqmukorcsolya\\korcsolya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7F8E5D0-37D5-43A0-9CAE-7F035B6193DC}|2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_16_LinqMukorcsolya\\2025_01_16_linqmukorcsolya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F8E5D0-37D5-43A0-9CAE-7F035B6193DC}|2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya.csproj|solutionrelative:2025_01_16_linqmukorcsolya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7F8E5D0-37D5-43A0-9CAE-7F035B6193DC}|2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2025_01_16_linqmukorcsolya\\2025_01_16_linqmukorcsolya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7F8E5D0-37D5-43A0-9CAE-7F035B6193DC}|2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya.csproj|solutionrelative:2025_01_16_linqmukorcsolya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7F8E5D0-37D5-43A0-9CAE-7F035B6193DC}|2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2025_01_16_linqmukorcsolya\\2025_01_16_linqmukorcsolya\\korcsolya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F8E5D0-37D5-43A0-9CAE-7F035B6193DC}|2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya.csproj|solutionrelative:2025_01_16_linqmukorcsolya\\korcsolya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Korcsolya.cs",
               "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya\\Korcsolya.cs",
               "RelativeDocumentMoniker": "2025_01_16_LinqMukorcsolya\\Korcsolya.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya\\Program.cs",
               "RelativeDocumentMoniker": "2025_01_16_LinqMukorcsolya\\Program.cs",
               "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_16_LinqMukorcsolya\\2025_01_16_LinqMukorcsolya\\Program.cs",
               "RelativeToolTip": "2025_01_16_LinqMukorcsolya\\Program.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAuwC0AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwHQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T06:44:23.97Z",
               "EditorCaption": ""

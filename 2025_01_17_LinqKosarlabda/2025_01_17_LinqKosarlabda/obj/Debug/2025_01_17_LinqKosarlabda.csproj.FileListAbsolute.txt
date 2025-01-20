@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2025_01_17_LinqKosarlabda\2025_01_17_LinqKosarlabda\bin\Debug\2025_01_17_LinqKosarlabda.exe.config
+H:\Programozás 12\Asztali alk\2025_01_17_LinqKosarlabda\2025_01_17_LinqKosarlabda\bin\Debug\2025_01_17_LinqKosarlabda.exe
+H:\Programozás 12\Asztali alk\2025_01_17_LinqKosarlabda\2025_01_17_LinqKosarlabda\bin\Debug\2025_01_17_LinqKosarlabda.pdb
+H:\Programozás 12\Asztali alk\2025_01_17_LinqKosarlabda\2025_01_17_LinqKosarlabda\obj\Debug\2025_01_17_LinqKosarlabda.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2025_01_17_LinqKosarlabda\2025_01_17_LinqKosarlabda\obj\Debug\2025_01_17_LinqKosarlabda.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_01_17_LinqKosarlabda\2025_01_17_LinqKosarlabda\obj\Debug\2025_01_17_LinqKosarlabda.exe
+H:\Programozás 12\Asztali alk\2025_01_17_LinqKosarlabda\2025_01_17_LinqKosarlabda\obj\Debug\2025_01_17_LinqKosarlabda.pdb
