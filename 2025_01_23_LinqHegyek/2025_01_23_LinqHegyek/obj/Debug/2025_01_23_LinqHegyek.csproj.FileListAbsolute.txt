@@ -1,0 +1,7 @@
+H:\Programozás 12\Asztali alk\2025_01_23_LinqHegyek\2025_01_23_LinqHegyek\bin\Debug\2025_01_23_LinqHegyek.exe.config
+H:\Programozás 12\Asztali alk\2025_01_23_LinqHegyek\2025_01_23_LinqHegyek\bin\Debug\2025_01_23_LinqHegyek.exe
+H:\Programozás 12\Asztali alk\2025_01_23_LinqHegyek\2025_01_23_LinqHegyek\bin\Debug\2025_01_23_LinqHegyek.pdb
+H:\Programozás 12\Asztali alk\2025_01_23_LinqHegyek\2025_01_23_LinqHegyek\obj\Debug\2025_01_23_LinqHegyek.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2025_01_23_LinqHegyek\2025_01_23_LinqHegyek\obj\Debug\2025_01_23_LinqHegyek.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_01_23_LinqHegyek\2025_01_23_LinqHegyek\obj\Debug\2025_01_23_LinqHegyek.exe
+H:\Programozás 12\Asztali alk\2025_01_23_LinqHegyek\2025_01_23_LinqHegyek\obj\Debug\2025_01_23_LinqHegyek.pdb

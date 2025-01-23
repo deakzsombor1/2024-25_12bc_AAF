@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_17_LinqKosarlabda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5724AD8-1735-40CC-912B-03B391F82DBA}|2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_17_LinqKosarlabda\\2025_01_17_linqkosarlabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5724AD8-1735-40CC-912B-03B391F82DBA}|2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda.csproj|solutionrelative:2025_01_17_linqkosarlabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5724AD8-1735-40CC-912B-03B391F82DBA}|2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_17_LinqKosarlabda\\2025_01_17_linqkosarlabda\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5724AD8-1735-40CC-912B-03B391F82DBA}|2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda.csproj|solutionrelative:2025_01_17_linqkosarlabda\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5724AD8-1735-40CC-912B-03B391F82DBA}|2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2025_01_17_linqkosarlabda\\2025_01_17_linqkosarlabda\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5724AD8-1735-40CC-912B-03B391F82DBA}|2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda.csproj|solutionrelative:2025_01_17_linqkosarlabda\\eredmenyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5724AD8-1735-40CC-912B-03B391F82DBA}|2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2025_01_17_linqkosarlabda\\2025_01_17_linqkosarlabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5724AD8-1735-40CC-912B-03B391F82DBA}|2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda.csproj|solutionrelative:2025_01_17_linqkosarlabda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Eredmenyek.cs",
               "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda\\Eredmenyek.cs",
               "RelativeDocumentMoniker": "2025_01_17_LinqKosarlabda\\Eredmenyek.cs",
@@ -39,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda\\Program.cs",
               "RelativeDocumentMoniker": "2025_01_17_LinqKosarlabda\\Program.cs",
               "ToolTip": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_01_17_LinqKosarlabda\\2025_01_17_LinqKosarlabda\\Program.cs",
               "RelativeToolTip": "2025_01_17_LinqKosarlabda\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwBgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T11:00:41.752Z",
               "EditorCaption": ""
