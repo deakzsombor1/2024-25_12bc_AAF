@@ -16,7 +16,31 @@ namespace _2025_01_23_LinqHegyek
             Feladat3();
             Feladat4();
             Feladat5();
+            Feladat6();
+            Feladat7();
+            Feladat8();
             Console.ReadLine();
+        }
+
+        private static void Feladat8()
+        {
+            Console.WriteLine("8. feladat: Hegység statisztika");
+            var statisztika = hegyek.GroupBy(x => x.hegyseg);
+            foreach (var item in statisztika)
+            {
+
+            }
+        }
+
+        private static void Feladat7()
+        {
+            Console.WriteLine($"7. feladat: 3000 lábnál magasabb hegycsúcsok száma: {hegyek.Where(c => c.magassag * 3.280839895 > 3000).Count()}");
+        }
+
+        private static void Feladat6()
+        {
+            int n = Convert.ToInt32(Console.ReadLine());
+            bool vane = hegyek.Any(x => x.hegyseg == "Börzsöny" && x.magassag > n);
         }
 
         private static void Feladat5()
