@@ -1,0 +1,10 @@
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\bin\Debug\2025_02_21_AdatokGeneralasa.exe.config
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\bin\Debug\2025_02_21_AdatokGeneralasa.exe
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\bin\Debug\2025_02_21_AdatokGeneralasa.pdb
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\obj\Debug\2025_02_21_AdatokGeneralasa.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\obj\Debug\_2025_02_21_AdatokGeneralasa.Form1.resources
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\obj\Debug\_2025_02_21_AdatokGeneralasa.Properties.Resources.resources
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\obj\Debug\2025_02_21_AdatokGeneralasa.csproj.GenerateResource.cache
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\obj\Debug\2025_02_21_AdatokGeneralasa.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\obj\Debug\2025_02_21_AdatokGeneralasa.exe
+H:\Programozás 12\Asztali alk\2025_02_21_AdatokGeneralasa\2025_02_21_AdatokGeneralasa\obj\Debug\2025_02_21_AdatokGeneralasa.pdb

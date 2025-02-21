@@ -1,0 +1,10 @@
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\bin\Debug\2025_02_05_Form.exe.config
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\bin\Debug\2025_02_05_Form.exe
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\bin\Debug\2025_02_05_Form.pdb
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\obj\Debug\2025_02_05_Form.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\obj\Debug\_2025_02_05_Form.Properties.Resources.resources
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\obj\Debug\2025_02_05_Form.csproj.GenerateResource.cache
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\obj\Debug\2025_02_05_Form.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\obj\Debug\2025_02_05_Form.exe
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\obj\Debug\2025_02_05_Form.pdb
+H:\Programozás 12\Asztali alk\2025_02_05_Form\2025_02_05_Form\obj\Debug\_2025_02_05_Form.Form1.resources
