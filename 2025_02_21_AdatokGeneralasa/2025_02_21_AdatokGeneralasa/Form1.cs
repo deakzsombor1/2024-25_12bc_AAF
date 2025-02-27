@@ -35,8 +35,8 @@ namespace _2025_02_21_AdatokGeneralasa
             int szam = 1;
             for (int i = 0; i < 3; i++)
             {
-                
-                for(int j = 0; j < 3; j++)
+
+                for (int j = 0; j < 3; j++)
                 {
                     Button button = new Button();
                     gombok.Add(button);
@@ -57,8 +57,21 @@ namespace _2025_02_21_AdatokGeneralasa
         }
         private void GombKlick(object sender, EventArgs e)
         {
-            Button gombSajatMaga = (Button) sender;
+            Button gombSajatMaga = (Button)sender;
             MessageBox.Show(gombSajatMaga.Text);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+            this.Visible = false;
+            Form2 UjAblak = new Form2(this, numericUpDown1);
+            UjAblak.Show();
+        }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+        
         }
     }
 }

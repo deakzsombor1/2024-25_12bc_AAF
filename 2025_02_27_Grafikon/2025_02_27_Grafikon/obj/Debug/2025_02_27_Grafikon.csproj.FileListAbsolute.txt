@@ -1,0 +1,10 @@
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\bin\Debug\2025_02_27_Grafikon.exe.config
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\bin\Debug\2025_02_27_Grafikon.exe
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\bin\Debug\2025_02_27_Grafikon.pdb
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\obj\Debug\2025_02_27_Grafikon.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\obj\Debug\_2025_02_27_Grafikon.Form1.resources
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\obj\Debug\_2025_02_27_Grafikon.Properties.Resources.resources
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\obj\Debug\2025_02_27_Grafikon.csproj.GenerateResource.cache
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\obj\Debug\2025_02_27_Grafikon.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\obj\Debug\2025_02_27_Grafikon.exe
+H:\Programozás 12\Asztali alk\2025_02_27_Grafikon\2025_02_27_Grafikon\obj\Debug\2025_02_27_Grafikon.pdb
