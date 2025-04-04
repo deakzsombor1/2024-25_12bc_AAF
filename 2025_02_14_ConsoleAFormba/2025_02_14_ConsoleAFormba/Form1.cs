@@ -34,6 +34,9 @@ namespace _2025_02_14_ConsoleAFormba
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Futtathato.versenyzok.ForEach(x =>
+                listBox1.Items.Add(x)
+            );
         }
     }
 }

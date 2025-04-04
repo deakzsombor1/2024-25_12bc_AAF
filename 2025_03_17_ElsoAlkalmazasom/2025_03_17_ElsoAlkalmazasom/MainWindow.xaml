@@ -1,0 +1,16 @@
+﻿<Window x:Class="_2025_03_17_ElsoAlkalmazasom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2025_03_17_ElsoAlkalmazasom"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="450" Background="Transparent" WindowStyle="None" AllowsTransparency="True">
+    <Grid>
+        <Image Source="/cd.png" Stretch="Fill" MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+        <Button Content="X" Width="20" Height="20" Margin="420,10,10,420" Click="Button_Click"/>
+        <TextBox Width="100" Height="20"  Margin="175,80,175,350" />
+        <TextBox Width="100" Height="20" Margin="175,55,175,375" />
+        <Button Name="gomb" Content="gomb" Width="65" Height="20" Margin="192,105,192,325" Click="Button_Click_1" />
+    </Grid>
+</Window>

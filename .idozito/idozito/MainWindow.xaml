@@ -1,0 +1,16 @@
+﻿<Window x:Class="idozito.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:idozito"
+        mc:Ignorable="d"
+        MaxHeight="550" MaxWidth="400" MinWidth="400" MinHeight="550" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow"
+        Title="Stopper" Height="550" Width="400" Background="LightCyan">
+    <Grid>
+        <Button x:Name="kor" Content="Kör" HorizontalAlignment="Left" Margin="80,452,0,0" VerticalAlignment="Top" Height="26" Width="70" FontSize="14" Click="kor_Click"/>
+        <Button x:Name="indito_megallito" Content="Indítás" HorizontalAlignment="Left" Margin="231,452,0,0" VerticalAlignment="Top" Height="26" Width="70" FontSize="14" Click="Button_Click"/>
+        <TextBlock x:Name="stopper" FontSize="30" HorizontalAlignment="Center" Margin="0,53,0,0" Text="00:00.00" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\bin\Debug\net8.0-windows\2025_03_13_WPF alapok2.exe
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\bin\Debug\net8.0-windows\2025_03_13_WPF alapok2.deps.json
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\bin\Debug\net8.0-windows\2025_03_13_WPF alapok2.runtimeconfig.json
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\bin\Debug\net8.0-windows\2025_03_13_WPF alapok2.dll
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\bin\Debug\net8.0-windows\2025_03_13_WPF alapok2.pdb
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\App.g.cs
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2_MarkupCompile.cache
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2_MarkupCompile.lref
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\MainWindow.baml
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.g.resources
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.AssemblyInfoInputs.cache
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.AssemblyInfo.cs
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.sourcelink.json
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.dll
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\refint\2025_03_13_WPF alapok2.dll
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.pdb
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\2025_03_13_WPF alapok2.genruntimeconfig.cache
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\ref\2025_03_13_WPF alapok2.dll
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\mellekablak.g.cs
+H:\Programozás 12\Asztali alk\2025_03_13_WPF alapok2\2025_03_13_WPF alapok2\obj\Debug\net8.0-windows\mellekablak.baml

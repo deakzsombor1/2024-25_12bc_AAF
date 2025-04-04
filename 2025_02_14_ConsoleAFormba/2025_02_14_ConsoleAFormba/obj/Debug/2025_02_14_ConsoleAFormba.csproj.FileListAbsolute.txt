@@ -1,0 +1,14 @@
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\bin\Debug\2025_02_14_ConsoleAFormba.exe.config
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\bin\Debug\2025_02_14_ConsoleAFormba.exe
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\bin\Debug\2025_02_14_ConsoleAFormba.pdb
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\bin\Debug\2024_02_06_FutoversenyProjekt.exe
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\bin\Debug\2024_02_06_FutoversenyProjekt.pdb
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\bin\Debug\2024_02_06_FutoversenyProjekt.exe.config
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\obj\Debug\2025_02_14_ConsoleAFormba.csproj.AssemblyReference.cache
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\obj\Debug\_2025_02_14_ConsoleAFormba.Form1.resources
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\obj\Debug\_2025_02_14_ConsoleAFormba.Properties.Resources.resources
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\obj\Debug\2025_02_14_ConsoleAFormba.csproj.GenerateResource.cache
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\obj\Debug\2025_02_14_ConsoleAFormba.csproj.CoreCompileInputs.cache
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\obj\Debug\2025_02_.B9BD1B92.Up2Date
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\obj\Debug\2025_02_14_ConsoleAFormba.exe
+H:\Programozás 12\Asztali alk\2025_02_14_ConsoleAFormba\2025_02_14_ConsoleAFormba\obj\Debug\2025_02_14_ConsoleAFormba.pdb

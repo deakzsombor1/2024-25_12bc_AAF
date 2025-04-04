@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "H:\\Programoz\u00E1s 12\\Asztali alk\\2025_02_21_AdatokGeneralasa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3333AE7-B557-47E5-A921-518785EC1364}|2025_02_21_AdatokGeneralasa\\2025_02_21_AdatokGeneralasa.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2025_02_21_AdatokGeneralasa\\2025_02_21_adatokgeneralasa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B3333AE7-B557-47E5-A921-518785EC1364}|2025_02_21_AdatokGeneralasa\\2025_02_21_AdatokGeneralasa.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2025_02_21_adatokgeneralasa\\2025_02_21_adatokgeneralasa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B3333AE7-B557-47E5-A921-518785EC1364}|2025_02_21_AdatokGeneralasa\\2025_02_21_AdatokGeneralasa.csproj|solutionrelative:2025_02_21_adatokgeneralasa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3333AE7-B557-47E5-A921-518785EC1364}|2025_02_21_AdatokGeneralasa\\2025_02_21_AdatokGeneralasa.csproj|h:\\programoz\u00E1s 12\\asztali alk\\2025_02_21_adatokgeneralasa\\2025_02_21_adatokgeneralasa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3333AE7-B557-47E5-A921-518785EC1364}|2025_02_21_AdatokGeneralasa\\2025_02_21_AdatokGeneralasa.csproj|H:\\Programoz\u00E1s 12\\Asztali alk\\2025_02_21_AdatokGeneralasa\\2025_02_21_adatokgeneralasa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3333AE7-B557-47E5-A921-518785EC1364}|2025_02_21_AdatokGeneralasa\\2025_02_21_AdatokGeneralasa.csproj|solutionrelative:2025_02_21_adatokgeneralasa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -38,8 +42,7 @@
               "RelativeToolTip": "2025_02_21_AdatokGeneralasa\\Form2.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T11:55:21.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T11:55:21.511Z"
             },
             {
               "$type": "Document",
