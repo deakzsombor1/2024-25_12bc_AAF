@@ -10,7 +10,11 @@
     <Grid>
         <Button x:Name="kor" Content="Kör" HorizontalAlignment="Left" Margin="80,452,0,0" VerticalAlignment="Top" Height="26" Width="70" FontSize="14" Click="kor_Click"/>
         <Button x:Name="indito_megallito" Content="Indítás" HorizontalAlignment="Left" Margin="231,452,0,0" VerticalAlignment="Top" Height="26" Width="70" FontSize="14" Click="Button_Click"/>
-        <TextBlock x:Name="stopper" FontSize="30" HorizontalAlignment="Center" Margin="0,53,0,0" Text="00:00.00" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False"/>
+        <TextBlock x:Name="stopper" FontSize="35" HorizontalAlignment="Center" Margin="0,23,0,0" Text="00:00.00" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" Height="49" Width="132"/>
+        <ListBox x:Name="listBox" Margin="86,116,86,115">
+            <ListBoxItem Content=""/>
+        </ListBox>
+        <TextBlock x:Name="reszido" FontSize="20" HorizontalAlignment="Center" Margin="0,72,0,0" TextWrapping="Wrap" Text="00:00.00" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
